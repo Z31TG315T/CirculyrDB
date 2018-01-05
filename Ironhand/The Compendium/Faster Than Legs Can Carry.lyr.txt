@@ -1,3 +1,5 @@
+[v: 0.4 | 1]
+
 This is the very last time
 This will be your very last breath
 Soon death will bring you the comfort that I /

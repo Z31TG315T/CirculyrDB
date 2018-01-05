@@ -1,3 +1,5 @@
+[v: 0.4 | 1]
+
 [r: Chorus]
 Embrace starvation
 There's nothing left of you to save

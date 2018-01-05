@@ -1,3 +1,5 @@
+[v: 0.4 | 1]
+
 [p: C1] For everyone fears /
 What lies behind the gates
 But nobody knows /

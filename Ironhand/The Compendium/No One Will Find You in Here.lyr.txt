@@ -1,3 +1,5 @@
+[v: 0.4 | 1]
+
 [r: Chorus]
 (He whispers)
 [p: C1] No-one will find you in here

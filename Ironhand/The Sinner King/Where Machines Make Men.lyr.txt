@@ -1,3 +1,5 @@
+[v: 0.4 | 1]
+
 Dies ist die maschinenzeit [t: | This is the age of machinery]
 
 Beugen sie vor metall reiche [t: | Bend them from rich metal]

@@ -1,3 +1,5 @@
+[v: 0.4 | 1]
+
 It's all the same
 But who's to blame /
 When all's the same /

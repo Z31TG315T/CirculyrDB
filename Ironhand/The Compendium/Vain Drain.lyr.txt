@@ -1,3 +1,5 @@
+[v: 0.4 | 1]
+
 (Hello, handsome!)
 (You're a good looking fellow, do you know that?)
 (???)

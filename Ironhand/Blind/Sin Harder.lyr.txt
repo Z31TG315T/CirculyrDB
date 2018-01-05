@@ -1,3 +1,5 @@
+[v: 0.4 | 1]
+
 Instinct repressed
 Obedience stressed
 Fairytale truths, logical lies

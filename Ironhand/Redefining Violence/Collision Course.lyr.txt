@@ -1,3 +1,5 @@
+[v: 0.4 | 1]
+
 I say this is no /
 Single-sided mirror
 It only takes one stone /

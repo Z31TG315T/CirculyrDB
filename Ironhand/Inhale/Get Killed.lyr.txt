@@ -1,3 +1,5 @@
+[v: 0.4 | 1]
+
 Get killed! [x2]
 
 My head is swimming in violence

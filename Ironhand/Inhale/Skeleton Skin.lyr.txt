@@ -1,3 +1,5 @@
+[v: 0.4 | 1]
+
 Step back from the mirror
 And step into my room
 I've many things in here to show to you

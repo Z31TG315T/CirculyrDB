@@ -1,3 +1,5 @@
+[v: 0.4 | 1]
+
 [r: Chorus]
 How easy they fall into holy violence
 Belief is the law, absolute compliance
